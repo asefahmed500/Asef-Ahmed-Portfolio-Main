@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Portfolio Website",
+    "github_link": "https://github.com/asefahmed/portfolio-website",
+    "live_link": "https://asefahmed-portfolio.com",
+    "image": "https://asefahmed-portfolio.com/images/portfolio.png",
+    "description": "A responsive portfolio website showcasing my work, skills, and contact information.",
+    "client_link": "https://github.com/asefahmed/portfolio-client",
+    "server_link": "https://github.com/asefahmed/portfolio-server"
+  },
+  {
+    "id": 2,
+    "name": "E-commerce Platform",
+    "github_link": "https://github.com/asefahmed/e-commerce-platform",
+    "live_link": "https://asefahmed-ecommerce.com",
+    "image": "https://asefahmed-ecommerce.com/images/ecommerce.png",
+    "description": "A full-featured e-commerce platform with user authentication, shopping cart, and payment integration.",
+    "client_link": "https://github.com/asefahmed/ecommerce-client",
+    "server_link": "https://github.com/asefahmed/ecommerce-server"
+  },
+  {
+    "id": 3,
+    "name": "Task Management App",
+    "github_link": "https://github.com/asefahmed/task-management-app",
+    "live_link": "https://asefahmed-tasks.com",
+    "image": "https://asefahmed-tasks.com/images/tasks.png",
+    "description": "A task management application that allows users to organize and track their tasks with priority levels and deadlines.",
+    "client_link": "https://github.com/asefahmed/task-client",
+    "server_link": "https://github.com/asefahmed/task-server"
+  },
+  {
+    "id": 4,
+    "name": "Blog Platform",
+    "github_link": "https://github.com/asefahmed/blog-platform",
+    "live_link": "https://asefahmed-blog.com",
+    "image": "https://asefahmed-blog.com/images/blog.png",
+    "description": "A blog platform where users can create, edit, and delete posts, with support for markdown and comments.",
+    "client_link": "https://github.com/asefahmed/blog-client",
+    "server_link": "https://github.com/asefahmed/blog-server"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Dashboard",
+    "github_link": "https://github.com/asefahmed/social-media-dashboard",
+    "live_link": "https://asefahmed-social.com",
+    "image": "https://asefahmed-social.com/images/dashboard.png",
+    "description": "A social media dashboard for managing posts, followers, and engagement metrics across multiple platforms.",
+    "client_link": "https://github.com/asefahmed/social-client",
+    "server_link": "https://github.com/asefahmed/social-server"
+  },
+  {
+    "id": 6,
+    "name": "Weather App",
+    "github_link": "https://github.com/asefahmed/weather-app",
+    "live_link": "https://asefahmed-weather.com",
+    "image": "https://asefahmed-weather.com/images/weather.png",
+    "description": "An app that provides current weather data, forecasts, and alerts based on user's location.",
+    "client_link": "https://github.com/asefahmed/weather-client",
+    "server_link": "https://github.com/asefahmed/weather-server"
+  },
+  {
+    "id": 7,
+    "name": "Fitness Tracker",
+    "github_link": "https://github.com/asefahmed/fitness-tracker",
+    "live_link": "https://asefahmed-fitness.com",
+    "image": "https://asefahmed-fitness.com/images/fitness.png",
+    "description": "A fitness app that tracks workouts, calorie intake, and progress over time.",
+    "client_link": "https://github.com/asefahmed/fitness-client",
+    "server_link": "https://github.com/asefahmed/fitness-server"
+  },
+  {
+    "id": 8,
+    "name": "Music Streaming App",
+    "github_link": "https://github.com/asefahmed/music-streaming-app",
+    "live_link": "https://asefahmed-music.com",
+    "image": "https://asefahmed-music.com/images/music.png",
+    "description": "An app for streaming music with personalized playlists and offline capabilities.",
+    "client_link": "https://github.com/asefahmed/music-client",
+    "server_link": "https://github.com/asefahmed/music-server"
+  },
+  {
+    "id": 9,
+    "name": "Online Learning Platform",
+    "github_link": "https://github.com/asefahmed/online-learning-platform",
+    "live_link": "https://asefahmed-learning.com",
+    "image": "https://asefahmed-learning.com/images/learning.png",
+    "description": "A platform offering courses and tutorials in various subjects with a focus on interactivity and progress tracking.",
+    "client_link": "https://github.com/asefahmed/learning-client",
+    "server_link": "https://github.com/asefahmed/learning-server"
+  },
+  {
+    "id": 10,
+    "name": "Food Delivery App",
+    "github_link": "https://github.com/asefahmed/food-delivery-app",
+    "live_link": "https://asefahmed-food.com",
+    "image": "https://asefahmed-food.com/images/food.png",
+    "description": "An app that connects users with local restaurants, enabling easy food ordering and delivery tracking.",
+    "client_link": "https://github.com/asefahmed/food-client",
+    "server_link": "https://github.com/asefahmed/food-server"
+  },
+  {
+    "id": 11,
+    "name": "Travel Booking Platform",
+    "github_link": "https://github.com/asefahmed/travel-booking-platform",
+    "live_link": "https://asefahmed-travel.com",
+    "image": "https://asefahmed-travel.com/images/travel.png",
+    "description": "A platform for booking flights, hotels, and rental cars with user reviews and ratings.",
+    "client_link": "https://github.com/asefahmed/travel-client",
+    "server_link": "https://github.com/asefahmed/travel-server"
+  },
+  {
+    "id": 12,
+    "name": "Cryptocurrency Tracker",
+    "github_link": "https://github.com/asefahmed/crypto-tracker",
+    "live_link": "https://asefahmed-crypto.com",
+    "image": "https://asefahmed-crypto.com/images/crypto.png",
+    "description": "An app for tracking cryptocurrency prices, market trends, and news updates.",
+    "client_link": "https://github.com/asefahmed/crypto-client",
+    "server_link": "https://github.com/asefahmed/crypto-server"
+  },
+  {
+    "id": 13,
+    "name": "Recipe Finder",
+    "github_link": "https://github.com/asefahmed/recipe-finder",
+    "live_link": "https://asefahmed-recipe.com",
+    "image": "https://asefahmed-recipe.com/images/recipe.png",
+    "description": "An app that helps users find recipes based on ingredients they have, with user ratings and cooking tips.",
+    "client_link": "https://github.com/asefahmed/recipe-client",
+    "server_link": "https://github.com/asefahmed/recipe-server"
+  },
+  {
+    "id": 14,
+    "name": "Job Portal",
+    "github_link": "https://github.com/asefahmed/job-portal",
+    "live_link": "https://asefahmed-jobs.com",
+    "image": "https://asefahmed-jobs.com/images/jobs.png",
+    "description": "A platform for job seekers and employers to connect, with resume uploads and job posting capabilities.",
+    "client_link": "https://github.com/asefahmed/jobs-client",
+    "server_link": "https://github.com/asefahmed/jobs-server"
+  },
+  {
+    "id": 15,
+    "name": "Personal Finance App",
+    "github_link": "https://github.com/asefahmed/personal-finance-app",
+    "live_link": "https://asefahmed-finance.com",
+    "image": "https://asefahmed-finance.com/images/finance.png",
+    "description": "An app that helps users manage their finances with budgeting tools, expense tracking, and financial goal setting.",
+    "client_link": "https://github.com/asefahmed/finance-client",
+    "server_link": "https://github.com/asefahmed/finance-server"
+  },
+  {
+    "id": 16,
+    "name": "Language Learning App",
+    "github_link": "https://github.com/asefahmed/language-learning-app",
+    "live_link": "https://asefahmed-language.com",
+    "image": "https://asefahmed-language.com/images/language.png",
+    "description": "An app that offers language courses with interactive lessons, quizzes, and a progress tracker.",
+    "client_link": "https://github.com/asefahmed/language-client",
+    "server_link": "https://github.com/asefahmed/language-server"
+  },
+  {
+    "id": 17,
+    "name": "Virtual Event Platform",
+    "github_link": "https://github.com/asefahmed/virtual-event-platform",
+    "live_link": "https://asefahmed-events.com",
+    "image": "https://asefahmed-events.com/images/events.png",
+    "description": "A platform for hosting and attending virtual events, with live streaming and chat features.",
+    "client_link": "https://github.com/asefahmed/events-client",
+    "server_link": "https://github.com/asefahmed/events-server"
+  },
+  {
+    "id": 18,
+    "name": "Health Monitoring App",
+    "github_link": "https://github.com/asefahmed/health-monitoring-app",
+    "live_link": "https://asefahmed-health.com",
+    "image": "https://asefahmed-health.com/images/health.png",
+    "description": "An app that allows users to monitor their health vitals, such as heart rate and sleep patterns, with recommendations for improvement.",
+    "client_link": "https://github.com/asefahmed/health-client",
+    "server_link": "https://github.com/asefahmed/health-server"
+  }
+]

@@ -1,0 +1,18 @@
+/* Introduction.css */
+
+.text-gradient {
+    background: linear-gradient(90deg, #1e3a8a, #3b82f6);
+    background-clip: text;            /* Standard property */
+    -webkit-background-clip: text;    /* For WebKit browsers */
+    -webkit-text-fill-color: transparent;
+    animation: colorChange 3s infinite;
+}
+
+@keyframes colorChange {
+    0%, 100% {
+        color: #1e3a8a; /* Dark Blue */
+    }
+    50% {
+        color: #3b82f6; /* Light Blue */
+    }
+}
