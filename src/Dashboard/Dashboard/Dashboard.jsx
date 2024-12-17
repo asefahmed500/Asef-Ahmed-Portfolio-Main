@@ -51,7 +51,7 @@ const Dashboard = () => {
                                     : "block py-2 px-4 rounded-md hover:bg-blue-800"
                             }
                         >
-                            Add Project
+                            Add Job
                         </NavLink>
                     </li>
                     <li>
@@ -63,21 +63,10 @@ const Dashboard = () => {
                                     : "block py-2 px-4 rounded-md hover:bg-blue-800"
                             }
                         >
-                            Manage Project
+                            Manage Job
                         </NavLink>
                     </li>
-                    <li>
-                        <NavLink
-                            to="/dashboardasefahmed/viewmessgae"
-                            className={({ isActive }) =>
-                                isActive
-                                    ? "block py-2 px-4 rounded-md bg-blue-800 font-semibold"
-                                    : "block py-2 px-4 rounded-md hover:bg-blue-800"
-                            }
-                        >
-                            View Message
-                        </NavLink>
-                    </li>
+                   
                 </ul>
                 <div className="divider my-6 border-t border-blue-700"></div>
                 <ul className="menu space-y-4">
