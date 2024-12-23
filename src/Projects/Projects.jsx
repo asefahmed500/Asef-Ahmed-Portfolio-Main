@@ -7,16 +7,25 @@ const Projects = () => {
     const [currentPage, setCurrentPage] = useState(1);
     const projectsPerPage = 6;
 
+    // Replace with the actual user email
+    const userEmail = "asefahmed500@gmail.com";
+
     useEffect(() => {
-        fetch('project.json')
-            .then(response => response.json())
-            .then(data => {
+        const fetchProjects = async () => {
+            try {
+                const response = await fetch(`http://localhost:5001/projects?userEmail=${userEmail}`);
+                if (!response.ok) {
+                    throw new Error("Failed to fetch projects");
+                }
+                const data = await response.json();
                 setProjects(data);
-            })
-            .catch(error => {
-                console.error('Error fetching projects:', error);
-            });
-    }, []);
+            } catch (error) {
+                console.error("Error fetching projects:", error);
+            }
+        };
+
+        fetchProjects();
+    }, [userEmail]);
 
     const indexOfLastProject = currentPage * projectsPerPage;
     const indexOfFirstProject = indexOfLastProject - projectsPerPage;
@@ -33,7 +42,7 @@ const Projects = () => {
 
             <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
                 {currentProjects.map((project) => (
-                    <Project key={project.id} project={project} />
+                    <Project key={project._id} project={project} />
                 ))}
             </div>
 

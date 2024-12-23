@@ -51,7 +51,7 @@ const Dashboard = () => {
                                     : "block py-2 px-4 rounded-md hover:bg-blue-800"
                             }
                         >
-                            Add Job
+                            Add Project
                         </NavLink>
                     </li>
                     <li>
@@ -63,7 +63,7 @@ const Dashboard = () => {
                                     : "block py-2 px-4 rounded-md hover:bg-blue-800"
                             }
                         >
-                            Manage Job
+                            Manage Project
                         </NavLink>
                     </li>
                    
