@@ -13,7 +13,7 @@ const Projects = () => {
     useEffect(() => {
         const fetchProjects = async () => {
             try {
-                const response = await fetch(`http://localhost:5001/projects?userEmail=${userEmail}`);
+                const response = await fetch(`https://portfolio-backend-main-1.onrender.com/projects?userEmail=${userEmail}`);
                 if (!response.ok) {
                     throw new Error("Failed to fetch projects");
                 }
